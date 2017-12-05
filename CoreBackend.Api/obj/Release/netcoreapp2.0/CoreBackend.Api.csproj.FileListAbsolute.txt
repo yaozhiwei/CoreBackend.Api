@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\nlog.config
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\CoreBackend.Api.deps.json
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\CoreBackend.Api.runtimeconfig.json
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\CoreBackend.Api.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\CoreBackend.Api.dll
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\bin\Release\netcoreapp2.0\CoreBackend.Api.pdb
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\CoreBackend.Api.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\CoreBackend.Api.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\CoreBackend.Api.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\CoreBackend.Api.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\CoreBackend.Api.dll
+C:\Users\Administrator\source\repos\CoreBackend.Api\CoreBackend.Api\obj\Release\netcoreapp2.0\CoreBackend.Api.pdb
